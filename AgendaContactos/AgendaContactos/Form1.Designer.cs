@@ -1,0 +1,58 @@
+﻿namespace AgendaContactos
+{
+    partial class Form1
+    {
+        /// <summary>
+        ///  Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        ///  Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        ///  Required method for Designer support - do not modify
+        ///  the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            uc = new AgendaContactos.Componentes.UCContacts();
+            SuspendLayout();
+            // 
+            // uc
+            // 
+            uc.Dock = DockStyle.Fill;
+            uc.Location = new Point(0, 0);
+            uc.Name = "uc";
+            uc.Size = new Size(800, 799);
+            uc.TabIndex = 0;
+            // 
+            // Form1
+            // 
+            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.FromArgb(239, 230, 228);
+            ClientSize = new Size(800, 799);
+            Controls.Add(uc);
+            Name = "Form1";
+            Text = "Form1";
+            ResumeLayout(false);
+        }
+
+        #endregion
+
+        private Componentes.UCContacts uc;
+    }
+}

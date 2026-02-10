@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Herod\\source\\repos\\Agenda\\",
+  "WorkspaceRootPath": "C:\\Users\\matthew\\Documents\\dual\\C#\\AgendaInterfaces\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{94A9B63C-9829-4FF5-89BC-82BEF4B300D9}|Agenda\\Agenda.csproj|c:\\users\\herod\\source\\repos\\agenda\\agenda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{94A9B63C-9829-4FF5-89BC-82BEF4B300D9}|Agenda\\Agenda.csproj|c:\\users\\matthew\\documents\\dual\\c#\\agendainterfaces\\agenda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{94A9B63C-9829-4FF5-89BC-82BEF4B300D9}|Agenda\\Agenda.csproj|solutionrelative:agenda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A9B63C-9829-4FF5-89BC-82BEF4B300D9}|Agenda\\Agenda.csproj|c:\\users\\matthew\\documents\\dual\\c#\\agendainterfaces\\agenda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A9B63C-9829-4FF5-89BC-82BEF4B300D9}|Agenda\\Agenda.csproj|solutionrelative:agenda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\matthew\\Documents\\dual\\C#\\AgendaInterfaces\\Agenda\\Form1.cs",
+              "RelativeDocumentMoniker": "Agenda\\Form1.cs",
+              "ToolTip": "C:\\Users\\matthew\\Documents\\dual\\C#\\AgendaInterfaces\\Agenda\\Form1.cs",
+              "RelativeToolTip": "Agenda\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T11:30:47.517Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Herod\\source\\repos\\Agenda\\Agenda\\Form1.cs",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\matthew\\Documents\\dual\\C#\\AgendaInterfaces\\Agenda\\Form1.cs",
               "RelativeDocumentMoniker": "Agenda\\Form1.cs",
-              "ToolTip": "C:\\Users\\Herod\\source\\repos\\Agenda\\Agenda\\Form1.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "Agenda\\Form1.cs [Dise\u00F1o]*",
+              "ToolTip": "C:\\Users\\matthew\\Documents\\dual\\C#\\AgendaInterfaces\\Agenda\\Form1.cs [Design]",
+              "RelativeToolTip": "Agenda\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T15:35:11.346Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "EditorCaption": " [Design]"
             }
           ]
         }

@@ -1,0 +1,38 @@
+[
+  {
+    "Foto": "C:\\Users\\aisuw\\source\\repos\\AgendaContactos\\AgendaContactos\\bin\\Release\\net8.0-windows\\FotosContacto\\466a8487-e263-4c4f-a120-713bdfa15ff5.jpg",
+    "Nombre": "Anatema",
+    "Apellidos": "Bellofonte",
+    "Telefonos": [
+      "\u002B34 677 87 87 87"
+    ],
+    "Emails": [
+      "anatemab@chicasPM.es"
+    ],
+    "Empresa": "Chicas de PM",
+    "Direccion": "C/ Universidad los Cerezos,3",
+    "Dia": "19",
+    "Mes": "7",
+    "Anio": "2005",
+    "NombreCompleto": "Anatema Bellofonte"
+  },
+  {
+    "Foto": "C:\\Users\\aisuw\\source\\repos\\AgendaContactos\\AgendaContactos\\bin\\Release\\net8.0-windows\\FotosContacto\\e41daeab-b7fc-47eb-a869-f2124b0e8666.jpg",
+    "Nombre": "Lucio",
+    "Apellidos": "",
+    "Telefonos": [
+      "\u002B34 677 67 67 67",
+      "\u002B34 688 76 76 76"
+    ],
+    "Emails": [
+      "lucio@besto.es",
+      "lucio@velo.es"
+    ],
+    "Empresa": "Velo Enterprises",
+    "Direccion": "",
+    "Dia": null,
+    "Mes": null,
+    "Anio": null,
+    "NombreCompleto": "Lucio "
+  }
+]

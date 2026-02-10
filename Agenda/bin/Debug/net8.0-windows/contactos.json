@@ -1,0 +1,60 @@
+[
+  {
+    "Foto": null,
+    "Nombre": "aasda",
+    "Apellidos": "",
+    "Telefonos": [
+      "dasdsa"
+    ],
+    "Emails": [],
+    "Empresa": "dda",
+    "Direccion": "",
+    "Dia": "19",
+    "Mes": "3",
+    "Anio": "2008",
+    "NombreCompleto": "aasda "
+  },
+  {
+    "Foto": "C:\\Users\\matthew\\Documents\\dual\\C#\\AgendaInterfaces\\Agenda\\bin\\Debug\\net8.0-windows\\FotosContacto\\c5ac3a4c-237a-4d96-803c-ab097fbdce04.jpg",
+    "Nombre": "pepe",
+    "Apellidos": "pepe",
+    "Telefonos": [
+      "dasdasdas"
+    ],
+    "Emails": [],
+    "Empresa": "",
+    "Direccion": "",
+    "Dia": "17",
+    "Mes": "3",
+    "Anio": "2006",
+    "NombreCompleto": "pepe pepe"
+  },
+  {
+    "Foto": null,
+    "Nombre": "waasa",
+    "Apellidos": "",
+    "Telefonos": [
+      "dasdasd"
+    ],
+    "Emails": [],
+    "Empresa": "",
+    "Direccion": "",
+    "Dia": "18",
+    "Mes": "3",
+    "Anio": "2008",
+    "NombreCompleto": "waasa "
+  },
+  {
+    "Foto": null,
+    "Nombre": "zA",
+    "Apellidos": "",
+    "Telefonos": [],
+    "Emails": [],
+    "Empresa": "",
+    "Direccion": "",
+    "Dia": null,
+    "Mes": null,
+    "Anio": null,
+    "NombreCompleto": "zA "
+  }
+]

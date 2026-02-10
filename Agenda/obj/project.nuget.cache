@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "GzcskY8ieQA=",
+  "dgSpecHash": "MoaVULj250c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Herod\\source\\repos\\Agenda\\Agenda\\Agenda.csproj",
+  "projectFilePath": "C:\\Users\\matthew\\Documents\\dual\\C#\\AgendaInterfaces\\Agenda\\Agenda.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Herod\\.nuget\\packages\\agendacontactos\\1.0.0\\agendacontactos.1.0.0.nupkg.sha512",
-    "C:\\Users\\Herod\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.7\\guna.ui2.winforms.2.0.4.7.nupkg.sha512",
-    "C:\\Users\\Herod\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
-    "C:\\Users\\Herod\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+    "C:\\Users\\matthew\\.nuget\\packages\\agendacontactos\\1.0.0\\agendacontactos.1.0.0.nupkg.sha512",
+    "C:\\Users\\matthew\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.7\\guna.ui2.winforms.2.0.4.7.nupkg.sha512",
+    "C:\\Users\\matthew\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\matthew\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

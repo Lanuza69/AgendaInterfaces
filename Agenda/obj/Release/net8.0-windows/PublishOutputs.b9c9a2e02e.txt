@@ -1,0 +1,9 @@
+C:\Users\matthew\Documents\dual\C#\AgendaInterfaces\Agenda\bin\Release\net8.0-windows\app.publish\Agenda.exe
+C:\Users\matthew\Documents\dual\C#\AgendaInterfaces\Agenda\bin\Release\net8.0-windows\app.publish\Agenda.dll
+C:\Users\matthew\Documents\dual\C#\AgendaInterfaces\Agenda\bin\Release\net8.0-windows\app.publish\Agenda.deps.json
+C:\Users\matthew\Documents\dual\C#\AgendaInterfaces\Agenda\bin\Release\net8.0-windows\app.publish\Agenda.runtimeconfig.json
+C:\Users\matthew\Documents\dual\C#\AgendaInterfaces\Agenda\bin\Release\net8.0-windows\app.publish\Agenda.pdb
+C:\Users\matthew\Documents\dual\C#\AgendaInterfaces\Agenda\bin\Release\net8.0-windows\app.publish\AgendaContactos.dll
+C:\Users\matthew\Documents\dual\C#\AgendaInterfaces\Agenda\bin\Release\net8.0-windows\app.publish\Guna.UI2.dll
+C:\Users\matthew\Documents\dual\C#\AgendaInterfaces\Agenda\bin\Release\net8.0-windows\app.publish\System.Management.dll
+C:\Users\matthew\Documents\dual\C#\AgendaInterfaces\Agenda\bin\Release\net8.0-windows\app.publish\runtimes\win\lib\net7.0\System.Management.dll

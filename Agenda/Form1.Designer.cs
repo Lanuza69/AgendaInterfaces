@@ -1,6 +1,6 @@
 ﻿namespace Agenda
 {
-    partial class Form1
+    partial class FormAgenda
     {
         /// <summary>
         ///  Required designer variable.
@@ -30,6 +30,7 @@
         {
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges1 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges2 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormAgenda));
             tableLayoutPanelPrincipal = new TableLayoutPanel();
             uc = new AgendaContactos.Componentes.UCContacts();
             panel1 = new Panel();
@@ -113,7 +114,7 @@
             btnminus.Text = "__";
             btnminus.Click += btnminus_Click;
             // 
-            // Form1
+            // FormAgenda
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -122,9 +123,11 @@
             ControlBox = false;
             Controls.Add(tableLayoutPanelPrincipal);
             FormBorderStyle = FormBorderStyle.FixedSingle;
-            Name = "Form1";
+            Icon = (Icon)resources.GetObject("$this.Icon");
+            Name = "FormAgenda";
+            SizeGripStyle = SizeGripStyle.Hide;
             StartPosition = FormStartPosition.CenterParent;
-            Text = "FormAngenda";
+            Text = "Agenda";
             tableLayoutPanelPrincipal.ResumeLayout(false);
             panel1.ResumeLayout(false);
             ResumeLayout(false);

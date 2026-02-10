@@ -9,6 +9,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{94A9B63C-9829-4FF5-89BC-82BEF4B300D9}|Agenda\\Agenda.csproj|c:\\users\\matthew\\documents\\dual\\c#\\agendainterfaces\\agenda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94A9B63C-9829-4FF5-89BC-82BEF4B300D9}|Agenda\\Agenda.csproj|solutionrelative:agenda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A9B63C-9829-4FF5-89BC-82BEF4B300D9}|Agenda\\Agenda.csproj|c:\\users\\matthew\\documents\\dual\\c#\\agendainterfaces\\agenda\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{94A9B63C-9829-4FF5-89BC-82BEF4B300D9}|Agenda\\Agenda.csproj|solutionrelative:agenda\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A9B63C-9829-4FF5-89BC-82BEF4B300D9}|Agenda\\Agenda.csproj|c:\\users\\matthew\\documents\\dual\\c#\\agendainterfaces\\agenda\\agenda.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{94A9B63C-9829-4FF5-89BC-82BEF4B300D9}|Agenda\\Agenda.csproj|solutionrelative:agenda\\agenda.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\matthew\\Documents\\dual\\C#\\AgendaInterfaces\\Agenda\\Form1.cs",
+              "RelativeDocumentMoniker": "Agenda\\Form1.cs",
+              "ToolTip": "C:\\Users\\matthew\\Documents\\dual\\C#\\AgendaInterfaces\\Agenda\\Form1.cs [Design]",
+              "RelativeToolTip": "Agenda\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T15:20:47.058Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\matthew\\Documents\\dual\\C#\\AgendaInterfaces\\Agenda\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Agenda\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\matthew\\Documents\\dual\\C#\\AgendaInterfaces\\Agenda\\Properties\\Resources.resx",
+              "RelativeToolTip": "Agenda\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-02-10T15:20:25.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Agenda",
+              "DocumentMoniker": "C:\\Users\\matthew\\Documents\\dual\\C#\\AgendaInterfaces\\Agenda\\Agenda.csproj",
+              "RelativeDocumentMoniker": "Agenda\\Agenda.csproj",
+              "ToolTip": "C:\\Users\\matthew\\Documents\\dual\\C#\\AgendaInterfaces\\Agenda\\Agenda.csproj",
+              "RelativeToolTip": "Agenda\\Agenda.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-10T15:20:16.454Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -36,18 +80,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-10T11:30:47.517Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\matthew\\Documents\\dual\\C#\\AgendaInterfaces\\Agenda\\Form1.cs",
-              "RelativeDocumentMoniker": "Agenda\\Form1.cs",
-              "ToolTip": "C:\\Users\\matthew\\Documents\\dual\\C#\\AgendaInterfaces\\Agenda\\Form1.cs [Design]",
-              "RelativeToolTip": "Agenda\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T15:35:11.346Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }
